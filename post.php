@@ -22,8 +22,6 @@
             </div>
             <div class="post-author">Author</div>
         </main>
-        <footer>
-            Built using Apache, PHP, MySQL, JS, HTML, CSS by @christikaes
-        </footer>
+        <?php include 'footer.php' ?>
     </body>
 </html>

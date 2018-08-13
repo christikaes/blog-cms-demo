@@ -26,8 +26,6 @@
                 <button type="submit" value="Submit">Submit</input>
             </form>
         </main>
-        <footer>
-            Built using Apache, PHP, MySQL, JS, HTML, CSS by @christikaes
-        </footer>
+        <?php include 'footer.php' ?>
     </body>
 </html>

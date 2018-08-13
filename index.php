@@ -14,8 +14,6 @@
                 <li><a href="post.php">Blog Post 1</a></li>
             </ul>
         </main>
-        <footer>
-            Built using Apache, PHP, MySQL, JS, HTML, CSS by @christikaes
-        </footer>
+        <?php include 'footer.php' ?>
     </body>
 </html>
