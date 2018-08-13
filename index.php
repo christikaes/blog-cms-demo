@@ -4,9 +4,7 @@
         <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
     <body>
-        <header>
-            <h1>Blog CMS</h1>
-        </header>
+        <?php include 'header.php' ?>
         <nav>
             <a href="index.php">Home</a>
             <a href="post-submission.php">New Blog Post</a>
