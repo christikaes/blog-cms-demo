@@ -5,10 +5,7 @@
     </head>
     <body>
         <?php include 'header.php' ?>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="post-submission.php">New Blog Post</a>
-        </nav>
+        <?php include 'nav.php' ?>
         <main>
             <h2 class="post-title">Title</h2>
             <div class="post-date">Date Published</div>
