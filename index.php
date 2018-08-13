@@ -8,12 +8,12 @@
             <h1>Blog CMS</h1>
         </header>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="post-submission.html">New Blog Post</a>
+            <a href="index.php">Home</a>
+            <a href="post-submission.php">New Blog Post</a>
         </nav>
         <main>
             <ul class="blog-list">
-                <li><a href="post.html">Blog Post 1</a></li>
+                <li><a href="post.php">Blog Post 1</a></li>
             </ul>
         </main>
         <footer>

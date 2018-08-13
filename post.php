@@ -8,8 +8,8 @@
             <h1>Blog CMS</h1>
         </header>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="post-submission.html">New Blog Post</a>
+            <a href="index.php">Home</a>
+            <a href="post-submission.php">New Blog Post</a>
         </nav>
         <main>
             <h2 class="post-title">Title</h2>
